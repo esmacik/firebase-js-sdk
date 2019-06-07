@@ -10,8 +10,8 @@
     "firebase": "6.1.1"
   },
   "devDependencies": {
-    "@babel/core": "7.4.4",
-    "@babel/preset-env": "7.4.4",
+    "@babel/core": "7.4.5",
+    "@babel/preset-env": "7.4.5",
     "browserify": "16.2.3",
     "chai": "4.2.0",
     "karma": "4.1.0",
